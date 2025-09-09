@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my school projects.<br>👯 I’m looking to collaborate on **web and software developments**.<br>🤝 I’m looking for help with part-time or full-time positions, internships or Co-op opportunities.<br>🌱 I’m currently learning JS, C++, Python, SQL<br><br>**"Most of my repositories are private as they are school projects.<br>However, I’d be happy to share them upon request. Feel free to reach out if you’d like to take a look!"**
+🔭 I’m currently working on my side projects.<br>👯 I’m looking to collaborate on **web and software developments**.<br>🤝 I’m looking for help with part-time or full-time positions, internships or Co-op opportunities.<br>🌱 I’m currently writing code in JavaScript, TypeScript, C++, Python, SQL<br><br>**"Most of my repositories are private as they are school projects.<br>However, I’d be happy to share them upon request. Feel free to reach out if you’d like to take a look!"**
 <br>www.seifi.dev
 
 

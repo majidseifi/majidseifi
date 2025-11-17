@@ -23,8 +23,6 @@ A production marketplace connecting farmers with customers for agritourism exper
 - 🔐 **Dual-token authentication** - Migrated from NextAuth to Supabase Auth with role-based access control
 - 🚀 **Three-tier deployment pipeline** - Automated builds with Cloud Run, Secret Manager, and an intelligent backup system
 
-[View Case Study →](https://github.com/majidseifi/sowcial) *(Private - available upon request)*
-
 ---
 
 ### Galerie Maya - E-commerce Platform

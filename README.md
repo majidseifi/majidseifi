@@ -12,22 +12,42 @@ I've been coding since I was 9 years old, starting by copying my dad's business 
 
 ## 🔨 Currently Building
 
-### Auth0 Multi-Tenant SaaS Platform
-*Node.js · React · TypeScript · PostgreSQL · AWS · Docker*
+### Job Application Tracker
+*React · JavaScript · Google Sheets API*
 
-Implementing a multi-tenant identity platform with complete data isolation, custom branding, and production-ready security features.
+Full-stack application to track job applications with Kanban board, analytics dashboard, and interview scheduling.
 
-**4 Integrated Projects:**
-- 🔐 **Multi-tenant IAM backend** - OAuth 2.0 authorization server, JWT auth, tenant isolation with RLS
-- 🎨 **Accessible UI component library** - WCAG 2.1 AA compliant React components with dynamic theming
-- ✅ **Comprehensive testing suite** - Unit, integration, E2E tests with CI/CD pipeline
-- ☁️ **AWS deployment & monitoring** - Dockerized infrastructure with CloudWatch monitoring
+**Stack & Features:**
+- 📊 **Google Sheets Database** - Single source of truth using Google Sheets API
+- 📋 **Kanban Board** - Drag-and-drop status management with real-time sheet updates
+- 📈 **Analytics Dashboard** - Response rate tracking, timeline analysis, status breakdowns
+- 🔍 **Search & Filter** - Real-time filtering by status, company, position
+- 📅 **Interview Tracking** - Schedule interviews with notes and feedback
+- 🤖 **Job Automation** - Auto-populated via [n8n jobseeker workflow](https://github.com/majidseifi/JobSeeker)
 
-**Repository:** [auth0-fullstack-portfolio](https://github.com/majidseifi/auth0-fullstack-portfolio)
+**Repository:** [jobTracker](https://github.com/majidseifi/jobTracker)
 
 ---
 
 ## 🚀 Recent Work
+
+### Multi-Tenant Authentication Platform
+*Node.js · Express · React · TypeScript · PostgreSQL · Docker · AWS*
+
+Production-ready multi-tenant SaaS authentication system with complete tenant isolation, branded UI components, and automated deployment.
+
+**Stack & Features:**
+- 🔐 **JWT authentication** - Access & refresh tokens with role-based access control (Admin, User, Viewer)
+- 🏢 **Tenant isolation** - Row-level security in PostgreSQL, tenant-specific routing (`/t/:tenantSlug`)
+- 🎨 **Branded UI library** - Accessible React components with styled-components and dynamic theming
+- 🛡️ **Security** - Account lockout, rate limiting, bcrypt password hashing, CORS protection
+- ✅ **Testing** - Jest, Supertest, Vitest, React Testing Library, accessibility testing
+- 🐳 **Docker & CI/CD** - Containerized deployment with GitHub Actions automation
+- ☁️ **AWS deployment** - Production infrastructure with EC2, RDS, Nginx, SSL
+
+**Repository:** [multi-tenant-auth-platform](https://github.com/majidseifi/multi-tenant-auth-platform)
+
+---
 
 ### Sowcial - Farm Experience Marketplace
 *Next.js 15 · React 18 · TypeScript · GCP*

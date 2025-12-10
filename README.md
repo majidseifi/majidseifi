@@ -10,33 +10,37 @@ I've been coding since I was 9 years old, starting by copying my dad's business 
 
 ---
 
-## 🔨 Currently Building
+<details open>
+<summary><h2>🚀 Recent Work</h2></summary>
 
 ### Job Application Tracker
-*React · JavaScript · Google Sheets API*
 
-Full-stack application to track job applications with Kanban board, analytics dashboard, and interview scheduling.
+_React 19 · Node.js · Express · Google Sheets API · n8n_
+
+Full-stack job application tracking system with Google Sheets as database, featuring Kanban board, analytics dashboard, and automated job collection.
 
 **Stack & Features:**
-- 📊 **Google Sheets Database** - Single source of truth using Google Sheets API
-- 📋 **Kanban Board** - Drag-and-drop status management with real-time sheet updates
-- 📈 **Analytics Dashboard** - Response rate tracking, timeline analysis, status breakdowns
+
+- 📊 **Google Sheets Integration** - Single source of truth using Google Sheets API with service account authentication
+- 📋 **Kanban Board** - Drag-and-drop status management with @dnd-kit, synced to Google Sheets
+- 📈 **Analytics Dashboard** - Custom data visualizations, response rate tracking, timeline analysis
 - 🔍 **Search & Filter** - Real-time filtering by status, company, position
 - 📅 **Interview Tracking** - Schedule interviews with notes and feedback
 - 🤖 **Job Automation** - Auto-populated via [n8n jobseeker workflow](https://github.com/majidseifi/JobSeeker)
+- 🏗️ **RESTful API** - Express.js backend with input validation middleware
 
 **Repository:** [jobTracker](https://github.com/majidseifi/jobTracker)
 
 ---
 
-## 🚀 Recent Work
-
 ### Multi-Tenant Authentication Platform
-*Node.js · Express · React · TypeScript · PostgreSQL · Docker · AWS*
+
+_Node.js · Express · React · TypeScript · PostgreSQL · Docker · AWS_
 
 Production-ready multi-tenant SaaS authentication system with complete tenant isolation, branded UI components, and automated deployment.
 
 **Stack & Features:**
+
 - 🔐 **JWT authentication** - Access & refresh tokens with role-based access control (Admin, User, Viewer)
 - 🏢 **Tenant isolation** - Row-level security in PostgreSQL, tenant-specific routing (`/t/:tenantSlug`)
 - 🎨 **Branded UI library** - Accessible React components with styled-components and dynamic theming
@@ -50,11 +54,13 @@ Production-ready multi-tenant SaaS authentication system with complete tenant is
 ---
 
 ### Sowcial - Farm Experience Marketplace
-*Next.js 15 · React 18 · TypeScript · GCP*
+
+_Next.js 15 · React 18 · TypeScript · GCP_
 
 A production marketplace connecting farmers with customers for agritourism experiences.
 
 **Key Achievements:**
+
 - 📉 **95% cost reduction** - Optimized GCP infrastructure while maintaining zero data loss
 - ⚡ **80% API load reduction** - Built a multi-layered caching system with localStorage, TTL management, and cross-tab sync
 - 🔐 **Dual-token authentication** - Migrated from NextAuth to Supabase Auth with role-based access control
@@ -63,33 +69,53 @@ A production marketplace connecting farmers with customers for agritourism exper
 ---
 
 ### Galerie Maya - E-commerce Platform
-*Shopify · JavaScript · SEO · Analytics*
+
+_Shopify · JavaScript · SEO · Analytics_
 
 Co-founded and scaled a Persian carpet e-commerce business.
 
 **Impact:**
+
 - 📈 35% increase in online sales through modern UI redesign
 - 🔍 40% boost in organic traffic via targeted SEO strategy
 - 📊 35% higher conversion rates through data-driven UX improvements
 
----
-# 💻 Tech Stack: 
+</details>
 
-**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) · ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) · ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) · ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css&logoColor=38B2AC) · ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat)  
-**Backend:** ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white) · ![Express](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white) · ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)  
-**Database:** ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white) · ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white) · ![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=flat)  
-**Cloud & DevOps:** ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white) · ![Docker](https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white) · ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)  
+---
+
+<details open>
+<summary><h2>💻 Tech Stack</h2></summary>
+
+**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) · ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) · ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) · ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css&logoColor=38B2AC) · ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat)
+
+**Backend:** ![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white) · ![Express](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white) · ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+
+**Database:** ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat&logo=postgresql&logoColor=white) · ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white) · ![Supabase](https://shields.io/badge/supabase-black?logo=supabase&style=flat)
+
+**Cloud & DevOps:** ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white) · ![Docker](https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white) · ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
+
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) · ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat) · ![Docker](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=flat) · ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=flat)
 
----
-
-# 📫 Let's Connect
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/majidseifi) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/majid.seifi.78/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/maj_seifi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/majidseifi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/Maj_Seifi) 
-
+</details>
 
 ---
 
-# 📊 GitHub Stats:
+<details open>
+<summary><h2>📫 Let's Connect</h2></summary>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/majidseifi) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/majid.seifi.78/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/maj_seifi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/majidseifi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/Maj_Seifi)
+
+</details>
+
+---
+
+<details open>
+<summary><h2>📊 GitHub Stats</h2></summary>
+
 <a href="https://github.com/majidseifi/github-stats">
 <img src="https://github.com/majidseifi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/majidseifi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+</details>

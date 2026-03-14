@@ -13,23 +13,23 @@ I've been coding since I was 9 years old, starting by copying my dad's business 
 <details open>
 <summary><h2>🚀 Recent Work</h2></summary>
 
-### Job Application Tracker
+### JobCatcher
 
-_React 19 · Node.js · Express · Google Sheets API · n8n_
+_React 19 · TypeScript · Node.js · Express 5 · Supabase · n8n · GCP_
 
-Full-stack job application tracking system with Google Sheets as database, featuring Kanban board, analytics dashboard, and automated job collection.
+Automated job search assistant that scrapes LinkedIn and Indeed, scores listings with AI, generates personalized cover letters and outreach messages, and tracks applications in a unified dashboard.
 
 **Stack & Features:**
 
-- 📊 **Google Sheets Integration** - Single source of truth using Google Sheets API with service account authentication
-- 📋 **Kanban Board** - Drag-and-drop status management with @dnd-kit, synced to Google Sheets
-- 📈 **Analytics Dashboard** - Custom data visualizations, response rate tracking, timeline analysis
-- 🔍 **Search & Filter** - Real-time filtering by status, company, position
-- 📅 **Interview Tracking** - Schedule interviews with notes and feedback
-- 🤖 **Job Automation** - Auto-populated via [n8n jobseeker workflow](https://github.com/majidseifi/JobSeeker)
-- 🏗️ **RESTful API** - Express.js backend with input validation middleware
+- 🤖 **AI Scoring & Generation** - Job scoring, cover letters, and LinkedIn reach-out via OpenRouter (DeepSeek V3 / Grok fallback)
+- 🔍 **Automated Scraping** - n8n + Apify workflow parameterized for multi-user SaaS use
+- 📋 **Job Tracking** - Status management, notes, interviews, bulk operations, search/filter/sort
+- 📈 **Analytics Dashboard** - 7 charts: funnel, timeline, weekly progress, platform breakdown, rating outcomes
+- ⚙️ **Config Wizard** - 7-step onboarding for resume, search criteria, scoring weights, and API keys
+- 👻 **Ghost Detection** - Auto-marks stale applications via daily Cloud Scheduler cron
+- ☁️ **GCP Deployment** - Cloud Run via Cloud Build with Sentry monitoring and PostHog analytics
 
-**Repository:** [jobTracker](https://github.com/majidseifi/jobTracker)
+**Repository:** [JobCatcher](https://github.com/majidseifi/JobCatcher)
 
 ---
 

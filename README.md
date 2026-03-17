@@ -104,7 +104,7 @@ Co-founded and scaled a Persian carpet e-commerce business.
 <details open>
 <summary><h2>📫 Let's Connect</h2></summary>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/majidseifi) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/majid.seifi.78/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/maj_seifi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/majidseifi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/Maj_Seifi)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/maj_seifi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/majidseifi/)
 
 </details>
 
@@ -114,8 +114,7 @@ Co-founded and scaled a Persian carpet e-commerce business.
 <summary><h2>📊 GitHub Stats</h2></summary>
 
 <a href="https://github.com/majidseifi/github-stats">
-<img src="https://github.com/majidseifi/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/majidseifi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/majidseifi/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+<img src="https://streak-stats.demolab.com?user=majidseifi&hide_border=true">
 </a>
-
 </details>
